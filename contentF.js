@@ -98,14 +98,18 @@
     { 
       "front": "<img src='https://elisabethelliot.org/wp-content/uploads/2020/04/capa_cornell_ci7232_448627_fullscreen-1-1024x698.jpg'>", 
       "back": "Elisabeth Elliot (1926–2015): Missionary and author who forgave her husband’s killers and continued ministry among Ecuadorian indigenous people." 
-    },
+    },  
+    { 
+      "front": "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/William_Carey.jpg/800px-William_Carey.jpg'>", 
+      "back": "William Carey (1761–1834): British man who translated the Bible into several Indian languages, promoted education, and advocated against social injustices such as sati (widow burning) in India."
+    },    
     { 
       "front": "<img src='https://cdn.britannica.com/07/19107-050-520E7134/John-Wesley-detail-oil-painting-Nathaniel-Hone-1766.jpg?w=400&h=300&c=crop'>", 
       "back": "John Wesley (1703–1791): Founder of Methodism, estimated to have ridden 250,000 miles around England sharing the good news about Jesus." 
     },
     { 
       "front": "<img src='https://malcolmguite.wordpress.com/wp-content/uploads/2018/05/lentz-julian-of-norwich.jpg'>", 
-      "back": "Julian of Norwich (c. 1343–1416): English woman whose 'Revelations of Divine Love' emphasized God’s unconditional compassion and ultimate redemption." 
+      "back": "Julian of Norwich (c. 1343–1416): English woman whose book 'Revelations of Divine Love' emphasized God’s unconditional compassion and ultimate redemption." 
     },
     { 
       "front": "<img src='https://www.reformationsa.org/uploads/1/0/4/1/104153586/william-tyndale-the-battle-for-the-bible-2_orig.jpg'>", 
@@ -131,10 +135,7 @@
       "front": "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ehALFv7CUl6XzVIc2u_sFthUGRwtBfGK9A&s'>", 
       "back": "Anne Hutchinson (1591–1643): Puritan spiritual adviser who challenged religious authorities and advocated personal revelation." 
     },
-    { 
-        "front": "<img src='https://upload.wikimedia.org/wikipedia/commons/e/eb/William_Carey.jpg'>", 
-        "back": "William Carey (1761–1834): British man who translated the Bible into several Indian languages, promoted education, and advocated against social injustices such as sati (widow burning) in India."
-      },      
+    
     { 
       "front": "<img src='https://upload.wikimedia.org/wikipedia/commons/d/d4/S%C3%B8ren_Kierkegaard_%281813-1855%29_-_%28cropped%29.jpg'>", 
       "back": "Søren Kierkegaard (1813–1855): Danish philosopher and theologian considered the father of existentialism, emphasizing radical faith and inward passion." 

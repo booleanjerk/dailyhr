@@ -58,5 +58,69 @@
     {
         "front": "This is the day that the Lord has made; <br>let us rejoice and be glad in it.",
         "back": "From Psalm 118, a psalm of thanksgiving for God’s deliverance and faithfulness."
+    },
+    {
+        "front": "The Lord is near to all who call on him, <br>to all who call on him in truth.",
+        "back": "From Psalm 145, emphasizing God’s responsiveness to sincere prayer."
+    },
+    {
+        "front": "The Lord will keep you from all harm—<br>he will watch over your life.",
+        "back": "From Psalm 121, a declaration of God’s protective care."
+    },
+    {
+        "front": "The Lord is my strength and my shield; <br>my heart trusts in him, and he helps me.",
+        "back": "From Psalm 28, praising God as a source of protection and help."
+    },
+    {
+        "front": "The heavens declare the glory of God; <br>the skies proclaim the work of his hands.",
+        "back": "From Psalm 19, celebrating God’s majesty as revealed in creation."
+    },
+    {
+        "front": "Your word is a lamp to my feet <br>and a light to my path.",
+        "back": "From Psalm 119, affirming the guidance provided by God’s Word."
+    },
+    {
+        "front": "Wait for the Lord; <br>be strong, and let your heart take courage.",
+        "back": "From Psalm 27, encouraging trust and patience in God."
+    },
+    {
+        "front": "The Lord is gracious and compassionate, <br>slow to anger and rich in love.",
+        "back": "From Psalm 145, praising God’s character of mercy and love."
+    },
+    {
+        "front": "The fear of the Lord is the beginning of wisdom; <br>all who follow his precepts have good understanding.",
+        "back": "From Psalm 111, emphasizing the foundation of wisdom in reverence for God."
+    },
+    {
+        "front": "God is our refuge and strength, <br>an ever-present help in trouble.",
+        "back": "From Psalm 46, offering reassurance of God’s protection and help."
+    },
+    {
+        "front": "Create in me a pure heart, O God, <br>and renew a steadfast spirit within me.",
+        "back": "From Psalm 51, a plea for cleansing and spiritual renewal."
+    },
+    {
+        "front": "Blessed is the one who trusts in the Lord, <br>whose confidence is in him.",
+        "back": "From Psalm 125, highlighting the security of trusting in God."
+    },
+    {
+        "front": "The Lord is my rock, my fortress, and my deliverer; <br>my God is my rock, in whom I take refuge.",
+        "back": "From Psalm 18, expressing confidence in God’s protection."
+    },
+    {
+        "front": "For his anger lasts only a moment, <br>but his favor lasts a lifetime; <br>weeping may stay for the night, <br>but rejoicing comes in the morning.",
+        "back": "From Psalm 30, reminding of God’s enduring favor and deliverance."
+    },
+    {
+        "front": "As far as the east is from the west, <br>so far has he removed our transgressions from us.",
+        "back": "From Psalm 103, celebrating God’s complete forgiveness."
+    },
+    {
+        "front": "The Lord is righteous in all his ways <br>and faithful in all he does.",
+        "back": "From Psalm 145, affirming God’s justice and faithfulness."
+    },
+    {
+        "front": "The Lord is good to all; <br>he has compassion on all he has made.",
+        "back": "From Psalm 145, proclaiming God’s universal care and compassion."
     }
 ]
