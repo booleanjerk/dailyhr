@@ -105,7 +105,7 @@
     },    
     { 
       "front": "<img src='https://cdn.britannica.com/07/19107-050-520E7134/John-Wesley-detail-oil-painting-Nathaniel-Hone-1766.jpg?w=400&h=300&c=crop'>", 
-      "back": "John Wesley (1703–1791): Estimated to have ridden 250,000 miles around England sharing the good news about Jesus." 
+      "back": "John Wesley (1703–1791): Founder of Methodism, estimated to have ridden 250,000 miles around England sharing the good news about Jesus." 
     },
     { 
       "front": "<img src='https://malcolmguite.wordpress.com/wp-content/uploads/2018/05/lentz-julian-of-norwich.jpg'>", 

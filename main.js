@@ -40,7 +40,6 @@ document.addEventListener('DOMContentLoaded', () => {
     // Automatic flipping
     const flipIntervals = {
         a: 8000,
-        d: 7000,
         f: 9000,
         h: 10000,
         i: 11000
