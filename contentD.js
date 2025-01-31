@@ -73,6 +73,39 @@
       },
       {
         "front": "<iframe src='https://www.youtube.com/embed/ZPZ2uABVMKA?si=P37MfzTVeVClrkPl&amp;controls=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
-        "back": "Bible Project:<br>New Testament letters: Litarary context."
-      }
+        "back": "Bible Project:<br>New Testament letters: Literary context."
+      },
+      {
+        "front": "<iframe src='https://www.youtube.com/embed/TJLan-pJzfQ?si=4SxSBmhWnC8DsMse&amp;controls=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+        "back": "Bible Project:<br>Tree of Life Theme"
+    },
+    {
+        "front": "<iframe src='https://www.youtube.com/embed/62CliEkRCso?si=SyReDAirCUhNvAkV&amp;controls=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+        "back": "Bible Project:<br>Generosity Theme"
+    },
+    {
+        "front": "<iframe src='https://www.youtube.com/embed/wTnq6I3vUbU?si=M64QvlQ5NKTtObeq&amp;controls=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+        "back": "Bible Project:<br>Temple Theme"
+    },
+    {
+        "front": "<iframe src='https://www.youtube.com/embed/3dEh25pduQ8?si=gfzeP5tewqEei1VV&amp;controls=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+        "back": "Bible Project:<br>Messiah Theme"
+    },
+    {
+        "front": "<iframe src='https://www.youtube.com/embed/3BGO9Mmd_cU?si=fmnzf16veRZzc-g7&amp;controls=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+        "back": "Bible Project:<br>Law Theme"
+    },
+    {
+        "front": "<iframe src='https://www.youtube.com/embed/Zy2AQlK6C5k?si=0SY4dTDKjfyDKep7&amp;controls=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+        "back": "Bible Project:<br>Heaven and Earth Theme"
+    },
+    {
+        "front": "<iframe src='https://www.youtube.com/embed/PFTLvkB3JLM?si=nWYB4JHNT-VUoHta&amp;controls=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+        "back": "Bible Project:<br>Sabbath Theme"
+    },
+    {
+        "front": "<iframe src='https://www.youtube.com/embed/PgmAkM39Zt4?si=f6OLD3QlQEDBXjiz&amp;controls=1' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
+        "back": "Bible Project:<brWater of Life Theme"
+    }
+
 ]
